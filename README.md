@@ -4,7 +4,7 @@ Numpy and PyTorch implementations for Eigenvectors from Eigenvalues (https://arx
 
 Formula: 
 
-![](https://qiniu.mdnice.com/7e03d5cf0f9d87e5829a7d8e2831838d.svg+xml)
+![](https://qiniu.mdnice.com/8cc1efff0992f71e4d85a0ef92ac7366.svg+xml)
 
 
 
